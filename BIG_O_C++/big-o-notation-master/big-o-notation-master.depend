@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1506784813 source:e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\fibonacciclient.cpp
+	<iostream>
+	<ctime>
+	"Fibonacci.h"
+
+1506782856 e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\include\fibonacci.h
+
+1506782848 source:e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\src\fibonacci.cpp
+	"Fibonacci.h"
+
+1506784320 source:e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\src\example.cpp
+	<iostream>
+	"Example.h"
+
+1506783986 e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\include\example.h
+
+1506784723 source:e:\veiko\maestria\ciclo i\ambientedesarrollosoftware\trabajos\big_o_c++\big-o-notation-master\examplesclient.cpp
+
